@@ -1,5 +1,5 @@
 <p> An online platform for creating blogs </p>
-<h3> Web-app can be found live on <a href = "http://born2blog.herokuapp.com/"> </h3>
+<h3> Web-app can be found live on - "http://born2blog.herokuapp.com/" </h3>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
